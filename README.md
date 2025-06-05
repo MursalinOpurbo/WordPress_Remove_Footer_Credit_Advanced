@@ -1,0 +1,1 @@
+# WordPress_Remove_Footer_Credit_Advanced
